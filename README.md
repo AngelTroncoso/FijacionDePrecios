@@ -1,5 +1,6 @@
-#Fijación de Precios
-[precios](
+# **Fijación de Precios:**
+
+![precios](https://image.lexica.art/full_webp/13462746-ea92-40af-99b8-84dd979a1df4)
 
 ## 📊 Descripción
 Proyecto de **regresión lineal para la asignación de precios** utilizando técnicas de machine learning. Este sistema permite predecir precios óptimos basándose en características específicas del producto o servicio.
